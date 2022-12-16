@@ -1,0 +1,52 @@
+.navbar
+{
+    background-color: rgb(22, 22, 69);
+}
+.nav-link
+{
+    color: white;
+    font-size: 20px;
+    margin-right: 20px;
+}
+body
+{
+    background-color: rgb(204, 218, 220);
+}
+
+.img-section
+{
+    height: 50%;
+    width: 100%;
+    margin: 0;
+    padding-left: 0%;
+    padding-right: 0%;
+}
+
+.center-alignment
+{
+    text-align: center;
+}
+.card-name
+{
+    color: azure;
+} 
+.black-bg
+{
+    background-color: rgb(22, 22, 69);
+    opacity: 65%;
+}
+.card
+{
+    height: 50%;
+}
+.card-link
+{
+    text-decoration: none;
+}
+
+.description-p
+{
+    text-align: left;
+    font-size: 20px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
